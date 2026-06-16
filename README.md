@@ -1,1 +1,1 @@
-https://en.wikipedia.org/wiki/Antikythera_mechanism
+gcc array build from multi line string file
